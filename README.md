@@ -1,4 +1,4 @@
-# CS390NIP-Final-Project
+# Cursive Style Transfer
 ### Files:
 * classifier.py: classifier that can classify input data either into cursive/standard, or by the script type.
 * config.py: global settings for classifier and CycleGAN
